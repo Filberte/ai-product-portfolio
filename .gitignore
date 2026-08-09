@@ -1,0 +1,40 @@
+# Local and generated artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+
+# Credentials and private configuration
+.env
+.env.*
+*.pem
+*.key
+*credential*
+*secret*
+*token*
+*cookie*
+
+# Models, data, build output, and evidence archives
+datasets/
+data/
+models/
+weights/
+checkpoints/
+output/
+dist/
+build/
+tmp/
+evidence/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.tflite
+*.bin
+
