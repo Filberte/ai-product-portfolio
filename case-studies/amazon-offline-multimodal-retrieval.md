@@ -1,5 +1,7 @@
 # Offline Multimodal Retrieval
 
+[Public source and evaluation evidence](https://github.com/Filberte/offline-multimodal-retrieval)
+
 > Sanitized internship case study. No employer code or internal documents are included.
 
 ## Problem
@@ -21,4 +23,3 @@ Design a Windows retrieval product for privacy-sensitive, network-restricted and
 ## Scope boundary
 
 The portfolio records product logic, architecture and evaluation methodology only. Source code, employer requirement documents, releases, datasets, model caches and evidence archives remain private.
-

@@ -1,5 +1,7 @@
 # Multimodal Content Generation Workflow
 
+[Public portable workflow core](https://github.com/Filberte/multimodal-content-workflow)
+
 ## Product problem
 
 Individual creators and small teams need to control scope, continuity and delivery quality across image, video, music and post-production models without losing editability.
@@ -19,4 +21,3 @@ Individual creators and small teams need to control scope, continuity and delive
 ## Limitation
 
 This is a personal product exploration. It demonstrates scope control and a reproducible production workflow, not commercial performance or formal user research.
-
