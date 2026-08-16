@@ -1,5 +1,7 @@
 # Long-form Novel Agent Workflow
 
+[Public source and reproducible evaluation](https://github.com/Filberte/long-form-novel-agent)
+
 ## Product problem
 
 Long-form creators need to detect setting drift, character-voice inconsistency and cross-chapter duplication without surrendering final editorial control to a model.
@@ -19,4 +21,3 @@ Long-form creators need to detect setting drift, character-voice inconsistency a
 ## Limitation
 
 The QA set is synthetic and the project has not undergone a formal external-user study. Metrics demonstrate workflow consistency and engineering reproducibility, not market validation.
-
